@@ -1,0 +1,9 @@
+.Nav {
+    float:right;
+    width: 22.9%;
+    padding: 10px;
+    height: 500px;
+    background:green;
+    display:inline-block; 
+    font-size: 11px;
+  }

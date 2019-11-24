@@ -1,0 +1,37 @@
+.Main {
+    position: absolute;
+    width: 75%;
+    padding-left: 10px;
+    height: 500px;
+    background:blueviolet;
+    background-size:100%;
+    display: flex;
+  }
+
+.Tab{
+    width:100%;
+}
+
+.Blog {
+     background-color: silver;
+     position: absolute;
+     padding-left: 2%;
+     padding-right: 5px;
+     width: 30%;
+     height: 420px;
+     font-style: italic;
+     text-align: justify;
+     font-size: 9px;
+
+}  
+
+
+
+
+.AL {
+    float: inherit;
+    height: 12%;
+    width: 12%;
+  }
+  
+  
